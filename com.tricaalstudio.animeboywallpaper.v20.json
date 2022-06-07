@@ -7,7 +7,7 @@
     // Test Mode
     // jika "true" maka akan berubah menjadi test mode IKLAN tanpa perlu kode iklan - kecuali MOPUB
     // MODE NO ADS / Pro version mode premium / MODE REVIEW
-    public static boolean MODE_NO_ADS  = false;
+    public static boolean MODE_NO_ADS  = true;
     public static boolean MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL  = true;
 
     public static boolean MODE_BACKUP_ADS  = true;
