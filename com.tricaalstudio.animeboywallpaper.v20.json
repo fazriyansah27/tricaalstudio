@@ -11,7 +11,7 @@
     public static boolean MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL  = true;
 
     public static boolean MODE_BACKUP_ADS  = true;
-    public static boolean TOAST_NOTIF  = true; // no json - untuk testing kelancaran apps by coding
+    public static boolean TOAST_NOTIF  = false; // no json - untuk testing kelancaran apps by coding
 
 
     // hati hati ctr naik 8% dalam riset
