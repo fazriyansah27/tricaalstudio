@@ -1,0 +1,60 @@
+ public static String PENGATURAN_IKLAN_BANNER = "ADMOB";
+    public static String PENGATURAN_IKLAN_INTER = "ADMOB";
+    public static String PENGATURAN_IKLAN_NATIVE = "ADMOB"; // mode native hanya bisa ADMOB FAN APPODEAL selain itu akan kembali default Admob backup Unity Backup Startapp
+
+    public static int INTERS_COUNT_WEB = 2;
+
+    // Test Mode
+    // jika "true" maka akan berubah menjadi test mode IKLAN tanpa perlu kode iklan - kecuali MOPUB
+    // MODE NO ADS / Pro version mode premium / MODE REVIEW
+    public static boolean MODE_NO_ADS  = false;
+    public static boolean MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL  = true;
+
+    public static boolean MODE_BACKUP_ADS  = true;
+    public static boolean TOAST_NOTIF  = true; // no json - untuk testing kelancaran apps by coding
+
+
+    // hati hati ctr naik 8% dalam riset
+    public static boolean ADS_ON_EXIT_DIALOG = true;
+
+    // setting mode iklan Startapp
+    public static boolean ENABLE_STRAP = true;
+    public static boolean ENABLE_STRAP_SPLAHSCREEN = true;
+
+
+
+    // testing server json yang dipakai
+    public static String JSON_POPUP_WAIT = "Loading no json . . .";
+    public static String MODE_NO_ADS_TRUE = "Proversion Activated";
+
+    public static String UNITY_BANNER = "Banner_Android";
+    public static String UNITY_INTERSTITIAL = "Interstitial_Android";
+    public static String UNITY_GAME_ID = "4776063";
+    public static boolean UNITY_TEST_MODE = true;
+
+    public static String STARAPPID = "204482212";
+
+    public static String APPODEAL_APP_ID = "6a12e37111a656fbda7bd59e3f7610254652a7fb21643b0c";
+
+    // kode dibawah kode default kode tes
+
+
+    public static String ADMOB_BANNER = "ca-app-pub-3940256099942544/6300978111";
+    public static String ADMOB_INTER = "ca-app-pub-3940256099942544/1033173712";
+
+    public static String HPK_ALIENDROID = "";
+    public static String HPK_ADMOB1 = "";
+    public static String HPK_ADMOB2 = "";
+    public static String HPK_ADMOB3 = "";
+    public static String HPK_ADMOB4 = "";
+    public static String HPK_ADMOB5 = "";
+
+    public static String FAN_BANNER = "YOUR_PLACEMENT_ID";
+    public static String FAN_INTER = "YOUR_PLACEMENT_ID";
+    public static String FAN_NATIVE = "YOUR_PLACEMENT_ID";
+
+    public static String ONESIGNALID = "53ad8c0a-a3a4-417a-ba8f-e235dc7b841c";
+
+
+    public static String APPLOVIN_BANNER_ID = "d0468a6d01b487ce";
+    public static String APPLOVIN_INTERSTITIAL_ID = "48ec9107daba408e";
